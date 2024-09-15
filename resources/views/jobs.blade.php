@@ -1,8 +1,7 @@
 <x-layout>
     <x-slot:heading>
-        ABOUT PAGE
+        JOB Listings page
     </x-slot:heading>
-    <h1>Hello from the Jobs page</h1>
 
     <ul>
         @foreach($jobs as $job)

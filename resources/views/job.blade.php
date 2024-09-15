@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:heading>
-        ABOUT PAGE
+        JOB
     </x-slot:heading>
 
     <h2 class="font-bold text-lg">{{$job['title']}}</h2>
