@@ -116,7 +116,7 @@
         <h1 class="text-3xl font-bold tracking-tight text-gray-900">{{$heading}}</h1>
       </div>
     </header>
-    <main>
+    <main class="mx-8">
       {{$slot}}
     </main>
   </div>
